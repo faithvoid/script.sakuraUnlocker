@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.program.sakuraUnlocker" name="sakuraUnlocker" version="1.0.0" provider-name="faithvoid">
+  <requires>
+    <import addon="xbmc.metadata" version="2.1.0"/>
+    <import addon="xbmc.python" version="2.7.18"/>
+  </requires>
+  <extension point="xbmc.python.script" library="default.py">
+    <provides>executable</provides>
+</extension>
+  <extension point="xbmc.addon.metadata">
+    <reuselanguageinvoker>true</reuselanguageinvoker>
+    <summary lang="en_GB">100% save game downloader for XBMC4Xbox/XBMC4Gamers, specifically for use in Insignia lobbies that require (or benefit from) 100% unlocked content.</summary>
+    <description lang="en_GB">100% save game downloader for XBMC4Xbox/XBMC4Gamers, specifically for use in Insignia lobbies that require (or benefit from) 100% unlocked content.</description>
+    <platform>xbox</platform>
+    <license>GPL-2.0-or-later</license>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
