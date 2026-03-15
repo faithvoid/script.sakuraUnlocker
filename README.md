@@ -6,7 +6,8 @@
 - Download the latest release from the Releases section of this repository
 - Extract the .zip and copy "script.program.sakuraUnlocker" to "Q:/home/addons/"
 - In your XBMC flavour of choice, go into your addon settings, enable the script, and then run it.
-- Select the game you'd like to download a save file for, and follow the on-screen instructions carefully. This has the risk of overwriting data you care about, so **PLEASE read every single option on screen, back up your game's save folder when requested if you have anything in that game you don't want to lose, and don't button-mash through the prompts, as you might overwrite something. I take zero responsibility if you overwrite your game's existing save data because you didn't read these instructions.**
+- Select the game you'd like to download a save file for, and follow the on-screen instructions carefully.
+- **This has the risk of overwriting data you care about, so PLEASE read every single option on screen, back up your game's save folder when requested if you have anything in that game you don't want to lose, and don't button-mash through the prompts, as you might overwrite something. I take zero responsibility if you overwrite your game's existing save data because you didn't read these instructions.**
 - ???
 - Profit! You're now ready to hop on Insignia with the same loadouts/maps/etc as other users!
 
