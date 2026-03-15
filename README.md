@@ -19,10 +19,13 @@
 
 ## FAQ
 - "Why?"
+
 A lot of Xbox Live titles have progression-based rewards. This is fantastic in concept, but not everyone these days has the time to 100% a game just to be on the same level as everyone else online, and some games are fairly strict about everyone having the same things available, or some games, like Project Gotham Racing 2, simply just aren't as fun to play online when one or more players only have early-game content. 
 - "Will you upload non-Insignia game saves here?"
+
 Probably not. This is meant to specifically target Insignia-supported games and make setting them up as hassle-free as possible, as having minimal unlocks can either stop users from joining certain lobbies, or limit everyone's options in what they can do in said lobbies. For singleplayer, you should focus on actually playing those games and have fun! And if you REALLY don't want to finish those games yourself, GameFAQs has you covered with hundreds of 100% save files for basically every Xbox game under the sun.
 - "Why isn't (insert Insignia game here) available?"
+
 A handful of games require their save games to be signed with HDD keys, meaning you can't just download them directly without signing them with an external utility. These games are temporarily left out until Rocky5's save game hash algorithm is implemented.
 
 ## Credits
