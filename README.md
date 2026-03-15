@@ -16,6 +16,7 @@
 
 ## TODO
 - Implement Rocky5's save-game signing algorithm for games such as Forza Motorsport
+- Seperate Outrun 2 JP from other regions, as swapping JP versions with any other version leads to a corrupted save data error. May affect other games, but afaik, currently it's just Outrun 2.
 
 ## FAQ
 - "Why?"
