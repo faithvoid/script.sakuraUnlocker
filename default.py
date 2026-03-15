@@ -7,7 +7,7 @@ import sqlite3
 import shutil
 
 # URLs and paths galore!
-GITHUB_URL = "https://api.github.com/repos/faithvoid/XboxSaveDB/contents/"
+GITHUB_URL = "https://api.github.com/repos/faithvoid/InsigniaSaveDB/contents/"
 DB_URL = "https://mobcat.zip/XboxIDs/titleIDs.db"
 UDATA_PATH = "E:\\UDATA\\"
 ICON = os.path.join(os.getcwd(), "icon.png")
