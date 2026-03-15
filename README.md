@@ -28,3 +28,4 @@ A handful of games require their save games to be signed with HDD keys, meaning 
 - Insignia Team - For giving me a reason to make a utility like this!
 - BigBucks000100 - Thorough 100% savegame catalog from his "Xbox Save Installer" project, saved me an ungodly amount of work.
 - Rocky5 - Save hash calculation algorithm
+- FlatIcons - Pink padlock icon
